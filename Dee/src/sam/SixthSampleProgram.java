@@ -32,7 +32,7 @@ public static void main(String args[]){
 	
 	//Using If Else Condition
 	int sfe = sc.nextInt();
-	if (sfe%2 == 0)
+	if (sfe%2 == 0 )
 	{
 		System.out.println("even number");
 	}else
