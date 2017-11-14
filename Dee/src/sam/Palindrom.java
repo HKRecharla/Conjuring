@@ -17,5 +17,5 @@ public static void main(String agrs[])
 	  else    
 	   System.out.println("not palindrome");    
 	}  
-}
+
 }
